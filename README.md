@@ -1,17 +1,31 @@
 # Data Scientist
 
 #### Technical Skills: 
-- Data Science Skills : Python, Tensorflow, Keras, Pytorch, Machine Learning, Deep Learning, Natural Language Processing(NLP), Data Visualization, Streamlit, Seaborn, Matplotlib, Data Analysis, Data Analytics, Tableau, Power BI, Scikit-learn, NumPy, Pandas, Apache Spark
-- Web Dev Skills : Java, Springboot, Microservices, HTML, CSS, JavaScript, SQL, MongoDB, Docker, Statistics, React, Vue, Next.js, Nuxt.js, 
+- **Data Science Skills** : Python, Tensorflow, Keras, Pytorch, Machine Learning, Deep Learning, Natural Language Processing(NLP), Data Visualization, Streamlit, Seaborn, Matplotlib, Data Analysis, Data Analytics, Tableau, Power BI, Scikit-learn, NumPy, Pandas, Apache Spark
+- **Web Dev Skills** : Java, Springboot, Microservices, HTML, CSS, JavaScript, SQL, MongoDB, Docker, Statistics, React, Vue, Next.js, Nuxt.js, 
 
 ## Education
-- MSc Data Science | University of Greenwich
-- B.Tech in Computer Science and Engineering | SCMS School of Engineering and Technology
+- **MSc Data Science**, University of Greenwich  
+- B.Tech in Computer Science and Engineering, SCMS School of Engineering and Technology  
 
 ## Projects
-- Student Performance Predictor
-- E-commerce Product Review Summarizer
-- Driver Fatigue Detection System
+
+### Data Science Projects 💻  
+1. Online review summarizer using RoBERTa and PEGASUS transformer models [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/online-review-summarizer)  
+   [Description]  
+2. Driver sleep detection and alarm system using Deep Learning [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Driver-Fatigue-Detection-with-OpenCV-and-Deep-Learning)
+   [Description]  
+
+### Frontend Projects 🖼️  
+1. A simple project using Ruby On Rails [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Simple-Ruby-On-Rails-App)
+   [Description]  
+2. Amazon clone using React & Redux [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/amazon-clone-react)
+   [Description]  
+3. Netflix Clone with React [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Netlfix-Clone-app)
+   [Description]  
+4. Inventory Management with React/Redux [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Product_Inventory_React_Capstone)
+   [Description]  
+
 
 ## Work Experience
 **Frontend Engineer, Chargebee (2021-2022)**
@@ -38,26 +52,10 @@
   •	Implemented key strategic enhancements to the system, resulting in a notable 27% increase in system throughput.
   •	Consistently exceeded project milestones, delivering high-quality outcomes ahead of scheduled timelines.
 
-## Projects
 
-### Data Science Projects 💻
-1. Online review summarizer using RoBERTa and PEGASUS transformer models [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/online-review-summarizer)  
-   
-   [Description]
-2. Driver sleep detection and alarm system using Deep Learning [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Driver-Fatigue-Detection-with-OpenCV-and-Deep-Learning)
-   [Description]
-
-### Frontend Projects 🖼️
-1. A simple project using Ruby On Rails [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Simple-Ruby-On-Rails-App)
-   [Description]
-2. Amazon clone using React & Redux [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/amazon-clone-react)
-   [Description]
-3. Netflix Clone with React [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Netlfix-Clone-app)
-   [Description]
-4. Inventory Management with React/Redux [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Product_Inventory_React_Capstone)
-   [Description]
 
 ## Publications
 1. Ali, M., Abdullah, S., Raizal, C. S., Rohith, K. F., & Menon, V. G. (2019). A novel and efficient real time driver fatigue and yawn detection-alert system. Proceedings of the International Conference on Trends in Electronics and Informatics, ICOEI 2019, 2019-April, 687–691. https://doi.org/10.1109/ICOEI.2019.8862632
 
-- [Technical Blog](https://vividrohit.medium.com)
+##Blog
+[Technical Blog](https://vividrohit.medium.com)
