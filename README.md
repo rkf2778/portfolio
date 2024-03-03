@@ -33,7 +33,7 @@
   •	Developed and executed comprehensive testing frameworks within Nuxt.js, leading to a 12% improvement in developer productivity and accelerated development cycles.  
   •	Facilitated a collaborative and efficient workflow environment through the strategic integration of advanced development tools.  
 
-**Project Engineer, Wipro Limited (2019,2021)**
+**Project Engineer, Wipro Limited (2019-2021)**
 - ***Leadership in Technical Innovation***  
   •	Led the strategic design and implementation of a backend API using Spring Boot, significantly enhancing operational efficiency and client satisfaction metrics.  
   •	Played a pivotal role as the primary developer during critical phases of project development, consistently ensuring high levels of client satisfaction.  
