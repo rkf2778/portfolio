@@ -1,6 +1,8 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: 
+- Data Science Skills : Python, Tensorflow, Keras, Pytorch, Machine Learning, Deep Learning, Natural Language Processing(NLP), Data Visualization, Streamlit, Seaborn, Matplotlib, Data Analysis, Data Analytics, Tableau, Power BI, Scikit-learn, NumPy, Pandas, Apache Spark
+- Web Dev Skills : Java, Springboot, Microservices, HTML, CSS, JavaScript, SQL, MongoDB, Docker, Statistics, React, Vue, Next.js, Nuxt.js, 
 
 ## Education
 - MSc Data Science | University of Greenwich
