@@ -11,20 +11,13 @@
 ## Projects
 
 ### Data Science Projects 💻  
-1. Online review summarizer using RoBERTa and PEGASUS transformer models [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/online-review-summarizer)  
-   [Description]  
-2. Driver sleep detection and alarm system using Deep Learning [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Driver-Fatigue-Detection-with-OpenCV-and-Deep-Learning)
-   [Description]  
+1. Online review summarizer using RoBERTa and PEGASUS transformer models [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/online-review-summarizer) : An application to summarize the reviews of a product in an ecommerce website, and show the pros and cons of the product  
+2. Driver sleep detection and alarm system using Deep Learning [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Driver-Fatigue-Detection-with-OpenCV-and-Deep-Learning) : A system that can analyze facial features of a driver in real-time to detect whether the driver is getting tired or not and then alerting them. 
 
 ### Frontend Projects 🖼️  
-1. A simple project using Ruby On Rails [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Simple-Ruby-On-Rails-App)
-   [Description]  
-2. Amazon clone using React & Redux [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/amazon-clone-react)
-   [Description]  
-3. Netflix Clone with React [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Netlfix-Clone-app)
-   [Description]  
-4. Inventory Management with React/Redux [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Product_Inventory_React_Capstone)
-   [Description]  
+1. Amazon clone using React & Redux [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/amazon-clone-react)
+2. Netflix Clone with React [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Netlfix-Clone-app)
+3. Inventory Management with React/Redux [![Click Here](https://img.shields.io/badge/Click_Here-blue)](https://github.com/rkf2778/Product_Inventory_React_Capstone)
 
 
 ## Work Experience
@@ -57,5 +50,5 @@
 ## Publications
 1. Ali, M., Abdullah, S., Raizal, C. S., Rohith, K. F., & Menon, V. G. (2019). A novel and efficient real time driver fatigue and yawn detection-alert system. Proceedings of the International Conference on Trends in Electronics and Informatics, ICOEI 2019, 2019-April, 687–691. https://doi.org/10.1109/ICOEI.2019.8862632
 
-##Blog Website  
+## Blog Website  
 [Technical Blog](https://vividrohit.medium.com)
